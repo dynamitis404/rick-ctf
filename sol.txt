@@ -1,0 +1,8 @@
+first you come to the defualt page
+you find the hidden dic "rick" by the sorce code of  the game
+you find passwd and passwd_rot
+you ssh rick by passwd
+then you cat /etc/shadow
+you take the root hash
+you crack the pass by passwd_rot
+by using john
